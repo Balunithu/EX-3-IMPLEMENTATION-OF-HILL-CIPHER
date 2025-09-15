@@ -111,7 +111,9 @@ int main() {
 ~~~
 
 ## OUTPUT
-<img width="1905" height="1080" alt="{A853AF60-8CBB-4433-88EA-D6BFDE32248D}" src="https://github.com/user-attachments/assets/933909e1-b51a-4086-8271-87f6dfbfbc63" />
+<img width="1871" height="864" alt="{1601F998-4318-4457-A53E-B50378C4B37F}" src="https://github.com/user-attachments/assets/9c9f4615-ffe9-4f71-8c49-a3a68cdb1aa5" />
+
+
 
 ## RESULT
 Successfully wrote a C program implementing the hill cipher substitution techniques.
